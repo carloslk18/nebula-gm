@@ -2,10 +2,14 @@
 
 A basic game made with Java and LibGDX.
 
+<hr>
+
 ### ⚙️ Dependencies
 
 OpenJDK
 Gradle
+
+<hr>
 
 ### 🎮 How to play
 
