@@ -6,8 +6,12 @@ A basic game made with Java and LibGDX.
 
 ### ⚙️ Dependencies
 
-OpenJDK
-Gradle
+<ul>
+  <li>OpenJDK</li>
+  <li>Gradle</li>
+</ul>
+
+
 
 <hr>
 
