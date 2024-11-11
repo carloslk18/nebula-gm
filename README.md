@@ -9,6 +9,6 @@ Gradle
 
 ### 🎮 How to play
 
-git clone https://github.com/terroo/spaceship
-cd spaceship
+git clone https://github.com/carloslk18/nebula-game
+cd Nebula
 gradle run
