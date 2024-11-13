@@ -1,4 +1,4 @@
-### 🚀 SpaceShip
+#### 🚀 SpaceShip
 
 A basic game made with Java and <a href="https://github.com/libgdx/libgdx">LibGDX</a>.
 
@@ -17,6 +17,6 @@ A basic game made with Java and <a href="https://github.com/libgdx/libgdx">LibGD
 
 ### 🎮 How to play
 
-git clone https://github.com/carloslk18/nebula-game
-cd Nebula
-gradle run
+<p>git clone https://github.com/carloslk18/nebula-game</p>
+<p>cd Nebula</p>
+<p>gradle run</p>
