@@ -1,6 +1,6 @@
 ### 🚀 SpaceShip
 
-A basic game made with Java and LibGDX.
+A basic game made with Java and <a href="https://github.com/libgdx/libgdx">LibGDX</a>.
 
 <hr>
 
