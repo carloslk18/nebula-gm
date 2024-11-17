@@ -20,5 +20,3 @@ A basic game made with Java and <a href="https://github.com/libgdx/libgdx">LibGD
 <p>gradle run</p>
 
 <hr>
-
-<h3>▶️ All documents in the series</h3>
