@@ -1,8 +1,18 @@
-<h1>🚀 SpaceShip</h1>
+<h1>🚀 Nebula</h1>
 
 A basic game made with Java and <a href="https://github.com/libgdx/libgdx">LibGDX</a>.
 
 <hr>
+
+## 🚀 Technologies
+
+| Camada         | Stack                                  |
+|----------------|----------------------------------------|
+| Lógica         | Java + LibGDX                          |
+| Banco de Dados | SQLite                                 |
+| Ver Control    | Git + GitHub                           |
+
+---
 
 <h3> ⚙️ Dependencies</h3>
 
